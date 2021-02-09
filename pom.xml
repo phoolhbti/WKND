@@ -8,7 +8,8 @@
     <packaging>pom</packaging>
     <version>0.1.1-SNAPSHOT</version>
 	<modules>
-        <module>wknd</module> 
+     <module>wknd</module> 	
+   <module>wknd-events</module>   
 	<module>dispatcher</module> 
-   </modules>
+		</modules>
 </project>
